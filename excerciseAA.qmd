@@ -11,7 +11,8 @@ output:
    highlight: tango
 header-includes: 
   - \usepackage{titling}
-  - \pretitle{\begin{center} \includegraphics[width=5in,height=13in]{Figs/front.jpg}\LARGE\\}
+  - \pretitle{\begin{center}
+  - \includegraphics[width=5in,height=13in]{Figs/front.jpg}\LARGE\\}
   - \posttitle{\end{center}}
   - \usepackage{fontawesome}
   - \usepackage[most]{tcolorbox}
@@ -20,3 +21,6 @@ header-includes:
   - \sectionfont{\color{olive}}
   - \usepackage{verbatim}
 ---
+# Introduction 
+
+Demo for Staging/Un-staging in Git. 
