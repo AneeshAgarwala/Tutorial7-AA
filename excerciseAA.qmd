@@ -24,3 +24,7 @@ header-includes:
 # Introduction 
 
 Demo for Staging/Un-staging in Git. 
+
+# Analysis
+
+Adding some more modifications to check git Diff. 
